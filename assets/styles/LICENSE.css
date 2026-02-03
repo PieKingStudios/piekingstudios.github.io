@@ -3,6 +3,6 @@
     src: url(../fonts/Jost-500-Medium.ttf);
 }
 
-div {
+.main {
     font-family: 'Jost';
 }
