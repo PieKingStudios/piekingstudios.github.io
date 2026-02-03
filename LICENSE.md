@@ -1,27 +1,37 @@
-BSD 3-Clause License
+Copyright (c) 2026 Pierce Pool (PieKingStudios). All rights reserved.
 
-Copyright (c) 2026, Pierce Pool (PieKingStudios)
+1. No Warranty / No Liability
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+This software and all associated files are provided “as is”, without warranty of any kind, express or implied.
+Under no circumstances shall the author be liable for any damages, losses, or claims arising from the use, misuse, or inability to use this software, including but not limited to data loss, security issues, or system failure.
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+2. Copying and Modification
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+You may not copy, redistribute, or reuse this code verbatim.
 
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
+You may create derivative works only if:
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+The code is meaningfully modified (cosmetic changes alone do not qualify), and
+
+The derivative work is clearly distinguishable from the original.
+
+Redistribution of unmodified or trivially modified versions is strictly prohibited.
+
+3. Attribution and Name Usage
+
+You may not use the author’s name, username, brand, or website name to:
+
+Name a derivative project
+
+Claim endorsement
+
+Imply authorship or official association
+
+Any derivative work must clearly state that it is not affiliated with or endorsed by the original author.
+
+4. Termination
+
+Any violation of this license immediately and automatically terminates your rights to use the code.REMENT OF SUBSTITUTE GOODS OR
 SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
