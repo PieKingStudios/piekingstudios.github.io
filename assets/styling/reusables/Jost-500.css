@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Jost';
+    src: url(../../fonts/Jost-500-Medium.woff2);
+}
+
+.jost-500 {
+    font-family: 'Jost';
+    font-weight: 500;
+}
