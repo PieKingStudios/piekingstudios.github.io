@@ -1,4 +1,20 @@
-.main-styling {
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header-styling {
+    display: flex;
+    justify-content: flex-start;
+    background-color: #000000;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.body-styling {
     background-color: white;
-    font-family
 }
