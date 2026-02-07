@@ -29,3 +29,15 @@ header {
   display: flex;
   align-items: center;
 }
+
+.main-styling {
+  margin: 25px; 
+  line-height: 30px;
+}
+
+.coding-block {
+  background-color: #e4e4e4;
+  color: #404040;
+  border-radius: 4px;
+  padding: 4px;
+}
